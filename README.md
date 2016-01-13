@@ -5,9 +5,10 @@ Based on Google Analytics plugin by Kevin Sylvestre.
 
 ## Installation
 
-1. Upload `googleanalyticsuniversal` directory to your `/wp-content/plugins/` directory
-2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Add the web property ID from Google Analytics (UA-0000000-0) to the settings (Admin > Settings > Google Analytics)
+1. Clone the repository to your computer.
+2. Upload the cloned `googleanalyticsuniversal` directory to your webserver's `/wp-content/plugins/` directory using FTP or any file transfer program.
+2. Activate the plugin through the 'Plugins' menu in WordPress.
+3. Add the web property ID from Google Analytics (UA-0000000-0) to the settings (Admin > Settings > Google Analytics).
 
 ## Screenshots
 
