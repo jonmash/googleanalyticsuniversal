@@ -5,9 +5,10 @@
 		<?php settings_fields('googleanalyticsuniversal'); ?>
 		<table class="form-table">
 			<tr valign="top">
-				<th scope="row">Web Property ID:</th>
+				<th scope="row">Analytics Tracking ID:</th>
 				<td>
 					<input type="text" name="web_property_id" value="<?php echo get_option('web_property_id'); ?>" />
+					<p class="description">Enter your Google Analytics Tracking ID for this website (e.g UA-12345678-9)</p>
 				</td>
 			</tr>
 		</table>
