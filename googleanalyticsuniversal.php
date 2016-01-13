@@ -41,6 +41,7 @@ function googleanalyticsuniversal() {
 	$web_property_id = get_option('web_property_id');
 	?>
 	<script>
+		<!-- Tracking code generated with Google Analytics Universal -->
 		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
