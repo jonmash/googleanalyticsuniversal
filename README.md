@@ -1,5 +1,5 @@
 # Google Analytics Universal
-A super simple (only 2.66kB!) wordpress plugin that allows you to add [Google Universal Analytics](http://www.google.com/analytics) to your site. 
+A super simple (< 3kB!) wordpress plugin that allows you to add [Google Universal Analytics](http://www.google.com/analytics) to your site. 
 
 Based on Google Analytics plugin by [Kevin Sylvestre](https://wordpress.org/plugins/googleanalytics/).
 

@@ -5,7 +5,7 @@ Requires at least: 2.7
 Tested up to: 4.4
 Stable tag: 1.0.0
 
-A super simple (only 2.66kB!) wordpress plugin that allows you to add Google Universal Analytics to your site. Based on Google Analytics plugin by Kevin Sylvestre.
+A super simple (< 3kB!) wordpress plugin that allows you to add Google Universal Analytics to your site. Based on Google Analytics plugin by Kevin Sylvestre.
 
 == Description ==
 

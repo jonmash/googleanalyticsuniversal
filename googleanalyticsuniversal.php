@@ -2,7 +2,7 @@
 /*
 Plugin Name: Google Analytics Universal
 Plugin URI: https://github.com/jonmash/googleanalyticsuniversal
-Description: A super simple (only 2.66kB!) wordpress plugin that allows you to add <a href="http://www.google.com/analytics/">Google Universal Analytics</a> to your site.
+Description: A super simple (< 3kB!) wordpress plugin that allows you to add <a href="http://www.google.com/analytics/">Google Universal Analytics</a> to your site.
 Version: 1.0.0
 Author: Jonathan Mash
 Author URI: http://jonmash.ca/
