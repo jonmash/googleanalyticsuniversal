@@ -37,7 +37,7 @@ function options_page_googleanalytics() {
 	include(WP_PLUGIN_DIR.'/googleanalyticsuniversal/options.php');  
 }
 
-function googleanalytics() {
+function googleanalyticsuniversal() {
 	$web_property_id = get_option('web_property_id');
 	?>
 	<script>
