@@ -26,11 +26,11 @@ function deactive_googleanalytics() {
 }
 
 function admin_init_googleanalytics() {
-	register_setting('googleanalytics', 'web_property_id');
+	register_setting('googleanalyticsuniversal', 'web_property_id');
 }
 
 function admin_menu_googleanalytics() {
-	add_options_page('Google Analytics', 'Google Analytics', 'manage_options', 'googleanalytics', 'options_page_googleanalytics');
+	add_options_page('Google Analytics', 'Google Analytics', 'manage_options', 'googleanalyticsuniversal', 'options_page_googleanalytics');
 }
 
 function options_page_googleanalytics() {
@@ -60,7 +60,7 @@ if (is_admin()) {
 }
 
 if (!is_admin()) {
-	add_action('wp_head', 'googleanalytics');
+	add_action('wp_head', 'googleanalyticsuniversal');
 }
 
 ?>

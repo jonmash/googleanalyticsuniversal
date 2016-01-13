@@ -3,7 +3,7 @@
 
 <form method="post" action="options.php">
 <?php wp_nonce_field('update-options'); ?>
-<?php settings_fields('googleanalytics'); ?>
+<?php settings_fields('googleanalyticsuniversal'); ?>
 
 <table class="form-table">
 
